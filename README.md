@@ -18,4 +18,5 @@ def smallestsubstr(sr):
 
     return ml
 sr="abcda"
+
 print(smallestsubstr(sr))

@@ -2,13 +2,9 @@
 def partitionLabels(sr):
    
     i = 0
-    
     j = 1
-    
     ml = 1
-    
     window = set()
-    
     window.add(sr[0])
 
     while i<=j and j<len(sr):

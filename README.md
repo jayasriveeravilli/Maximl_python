@@ -1,6 +1,5 @@
-# Maximl_python
-def partitionLabels(sr):
-   
+# Maximl_python_Smallest substring
+def smallestsubstr(sr):
     i = 0
     j = 1
     ml = 1
@@ -18,4 +17,4 @@ def partitionLabels(sr):
 
     return ml
 sr="abcda"
-print(partitionLabels(sr))
+print(smallestsubstr(sr))

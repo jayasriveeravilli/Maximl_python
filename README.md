@@ -1,5 +1,6 @@
 # Maximl_python_Smallest substring
 def smallestsubstr(sr):
+
     i = 0
     j = 1
     ml = 1
